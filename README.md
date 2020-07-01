@@ -1,0 +1,3 @@
+# mscdataanalytics
+Projects
+The topic how does Americans prefer their steak is a good topic or rather a good dataset as it is not quite conclusive. I say that because, one usually finds strong bias when deciding how a person prefers something. Ones nature or habits or upbringing dictate what that person would prefer. So if you have been a person from South America, it is a widely accepted fact that your tolerance level for spice is pretty high as compared to North American. Similarly, this study tries to see if there is any relationship between ones risk taking ability and their preference of steak, like, if you love taking risk, do you prefer your steak rare – umm, may be not?
